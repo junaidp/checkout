@@ -1,0 +1,2 @@
+serviceClass: com.checkout.client.GreetingService
+path: C3E274AD8F3BCBFA04D4998D9DA763D0.gwt.rpc
